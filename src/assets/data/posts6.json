@@ -311,7 +311,7 @@
       },
       "play_url": {
         "uri": "",
-        "url_list": [https://api.yujn.cn/api/zzxjj.php],
+        "url_list": ["https://api.yujn.cn/api/zzxjj.php"],
         "width": 720,
         "height": 720,
         "url_key": "6452110567468436238"
