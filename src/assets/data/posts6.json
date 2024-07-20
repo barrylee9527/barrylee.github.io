@@ -26,8 +26,7 @@
       "play_url": {
         "uri": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/ies-music/7123453672335690532.mp3",
         "url_list": [
-          "https://sf5-hl-cdn-tos.douyinstatic.com/obj/ies-music/7123453672335690532.mp3",
-          "https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/7123453672335690532.mp3"
+          "http://api.yujn.cn/api/xjj.php?type=video"
         ],
         "width": 720,
         "height": 720,
@@ -43,7 +42,7 @@
       "play_addr": {
         "uri": "v0d00fg10000cj1lq4jc77u0ng6s1gt0",
         "url_list": [
-          "https://www.douyin.com/aweme/v1/play/?video_id=v0d00fg10000cj1lq4jc77u0ng6s1gt0&line=0&file_id=bed51c00899b458cbc5d8280147c22a1&sign=7749aec7bd62a3760065f60e40fc1867&is_play_url=1&source=PackSourceEnum_PUBLISH"
+          "https://api.yujn.cn/api/zzxjj.php"
         ],
         "width": 1080,
         "height": 1920,
@@ -312,7 +311,7 @@
       },
       "play_url": {
         "uri": "",
-        "url_list": [],
+        "url_list": [https://api.yujn.cn/api/zzxjj.php],
         "width": 720,
         "height": 720,
         "url_key": "6452110567468436238"
@@ -326,7 +325,7 @@
       "play_addr": {
         "uri": "v0200f2c0000bj63fuv3cp5a1sbmujc0",
         "url_list": [
-          "https://www.douyin.com/aweme/v1/play/?video_id=v0200f2c0000bj63fuv3cp5a1sbmujc0&line=0&file_id=fad24ab3e1ab4efa90440244d5268bd9&sign=f33a08757b00e73f6a75ab6a3c5d751b&is_play_url=1&source=PackSourceEnum_PUBLISH"
+          "https://api.yujn.cn/api/zzxjj.php"
         ],
         "width": 720,
         "height": 1280,
@@ -567,7 +566,7 @@
       "play_addr": {
         "uri": "v0200fg10000cnm4kq3c77ubn9efls50",
         "url_list": [
-          "https://www.douyin.com/aweme/v1/play/?video_id=v0200fg10000cnm4kq3c77ubn9efls50&line=0&file_id=57f15d4da3274950aec2af12bbe0514c&sign=23f56dac8fb96a21c4bdc2b4e3bedb62&is_play_url=1&source=PackSourceEnum_PUBLISH"
+          "https://api.yujn.cn/api/zzxjj.php"
         ],
         "width": 1080,
         "height": 1920,
@@ -843,7 +842,7 @@
       "play_addr": {
         "uri": "v0d00fg10000cnpei83c77uejrp5pns0",
         "url_list": [
-          "https://www.douyin.com/aweme/v1/play/?video_id=v0d00fg10000cnpei83c77uejrp5pns0&line=0&file_id=a6eca4a909c54bf1ab053f8aa4b17dea&sign=dfdb4510ea4724d6bc506d03ed39b164&is_play_url=1&source=PackSourceEnum_PUBLISH"
+          "https://api.yujn.cn/api/zzxjj.php"
         ],
         "width": 1080,
         "height": 1920,
@@ -1158,7 +1157,7 @@
       "play_addr": {
         "uri": "v0200f9e0000bldvt42gd9fqp49ecpag",
         "url_list": [
-          "https://www.douyin.com/aweme/v1/play/?video_id=v0200f9e0000bldvt42gd9fqp49ecpag&line=0&file_id=f87d7ac5d5a24b19b3f33f1b31ba02e7&sign=c872722944d05b0ccd56ac9f5fb8a51b&is_play_url=1&source=PackSourceEnum_PUBLISH"
+          "https://api.yujn.cn/api/zzxjj.php"
         ],
         "width": 1080,
         "height": 1920,
@@ -1408,7 +1407,7 @@
       "play_addr": {
         "uri": "v0300fg10000choacujc77ufs55f0oq0",
         "url_list": [
-          "https://www.douyin.com/aweme/v1/play/?video_id=v0300fg10000choacujc77ufs55f0oq0&line=0&file_id=7b9fdf3117bc4ab49b58c956a70bd2e7&sign=e116a1e5b4269edca98db07a22142fbd&is_play_url=1&source=PackSourceEnum_PUBLISH"
+          "https://api.yujn.cn/api/zzxjj.php"
         ],
         "width": 1080,
         "height": 1920,
